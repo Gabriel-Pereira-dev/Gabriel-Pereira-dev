@@ -1,6 +1,6 @@
 ## Olá! Eu sou Gabriel Pereira
 - 💻 Hoje eu trabalho full stack com foco em backend
-- 📖 Atualmente estou estudando Vue com TypeScript e Sass para futuramente estudar Spring e fazer a integração dessas tecnologias
+- 📖 Atualmente estou estudando Vue com TypeScript e Sass
  <div>
   <a href="https://github.com/Gabriel-Pereira-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Pereira-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -21,7 +21,9 @@
  
 <div> 
   <a href = "mailto:gabrielpsilva023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-pereira-aa3055192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabriel-pereira-aa3055192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <br><br>
+ Gosto muito de desenvolver tanto em tecnologias frontend como backend e desejo alinhar os conhecimentos para me tornar um desenvolvedor full stack.
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
