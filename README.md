@@ -1,6 +1,6 @@
 ## Olá! Eu sou Gabriel Pereira
-- 💻 Hoje eu trabalho full stack com foco em Frontend com Vue
-- 📖 Atualmente estou estudando Vue 3 com Nuxt 3 e C# com Unity
+- 💻 Hoje eu trabalho full stack com foco em Frontend com Vue e Backend com Java/Spring Boot
+- 📖 Atualmente estou estudando Angular
  <div>
   <a href="https://github.com/Gabriel-Pereira-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Pereira-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
